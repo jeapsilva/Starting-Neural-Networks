@@ -1,4 +1,4 @@
-# Codes to study Neural Networks fundaments 
+# Neural Networks Course
 
 Here I will put some algorithms to teach you how to implement a neural networks using Python and frameworks such as Pytorch, Keras and TensorFlow.
 
